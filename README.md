@@ -11,7 +11,7 @@ Indica a origem do repositório
 git status --
 Lista sua branch atual, os commits atuais e os arquivos modificados, mostrando seus status
 
-git add <arquivo>	
+git add <arquivo> --	
 Prepara o arquivo para ser adicionado ao próximo commit/ adicionar arquivos que você quer "salvar" numa "versão"
 
 git add . --	
